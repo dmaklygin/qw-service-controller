@@ -1,0 +1,23 @@
+{
+  "name": "qw-service-controller",
+  "version": "0.0.1",
+  "description": "service controller for modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmaklygin/qw-service-controller.git"
+  },
+  "keywords": [
+    "modules",
+    "nodejs"
+  ],
+  "author": "d.maklygin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmaklygin/qw-service-controller/issues"
+  },
+  "homepage": "https://github.com/dmaklygin/qw-service-controller"
+}
